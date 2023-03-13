@@ -64,3 +64,11 @@ options:
   -f F        Frame rate for movie (default: 2)
   -l          Loop the movie
 ```
+
+## 运行结果
+
+<img style="width: 49%;" src="examples/frame-0.png">
+<img style="width: 49%;" src="examples/frame-1.png">
+<img style="width: 49%;" src="examples/frame-2.png">
+<img style="width: 49%;" src="examples/frame-3.png">
+<img style="width: 49%;" src="examples/frame-4.png">
