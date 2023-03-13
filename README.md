@@ -72,3 +72,7 @@ options:
 <img style="width: 49%;" src="examples/frame-2.png">
 <img style="width: 49%;" src="examples/frame-3.png">
 <img style="width: 49%;" src="examples/frame-4.png">
+
+## Github 仓库链接
+
+[TeddyHuang-00/Computational-Thinking-in-Social-Sciences](https://github.com/TeddyHuang-00/Computational-Thinking-in-Social-Sciences/tree/network-simulation)
