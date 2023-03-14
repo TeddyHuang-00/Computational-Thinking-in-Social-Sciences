@@ -43,11 +43,11 @@ def visualize(
     timestep: int,
     A: np.ndarray,
     B: np.ndarray,
-    new_friend: np.ndarray | None = None,
-    new_member: np.ndarray | None = None,
-    output_dir: str = ".",
-    output_prefix: str = "closure-",
-    dpi: int = 600,
+    new_friend: np.ndarray | None,
+    new_member: np.ndarray | None,
+    output_dir: str,
+    output_prefix: str,
+    dpi: int,
 ):
     G: nx.Graph = nx.from_numpy_array(A)
     # Add club nodes
